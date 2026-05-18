@@ -1,0 +1,12 @@
+.venv/
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.pyc
+*.egg-info/
+data/
+runs/
+outputs/
+fixtures/portfolio.json
+.occupancy-forecast.lock
+.DS_Store
